@@ -2,6 +2,8 @@
 This is repository for our group reading ["Operating Systems: Three Easy Pieces" Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau](http://pages.cs.wisc.edu/~remzi/OSTEP/)  
 
 # Rule
+### Oeder of Presentation
+[Here](https://docs.google.com/spreadsheets/d/1WMVDthMVl2N5hV6q3uKKHH4SWxSihS_-03Pl4wZUOE8/edit#gid=0)
 ## git_igonre
 You must not commit hidden system files, such as ```.DS_Store or Thumbs.db```.
 I strongly recommennd setting ```.gitignore_global.``` For details, see below documents. 
